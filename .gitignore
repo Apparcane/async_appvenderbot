@@ -1,5 +1,6 @@
 __pycache__
-.json
-.vscode
+*.json
+json
+*.vscode
 *.pyc
 start.bat
